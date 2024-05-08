@@ -1,1 +1,1 @@
-Um Music player que contém 3 músicas. Foi um projeto bem divertido de fazer e mediano na escala de dificuldade.
+Um Music player que contém 3 músicas, com opções de pausar, avançar e retornar as músicas.
