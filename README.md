@@ -1,19 +1,21 @@
  ##Music-Player  
 
-![Uploading image.png…]()
+![Image](https://github.com/user-attachments/assets/e47e60e5-4cbe-430b-bdbc-8964fdc13e18)
 
+## Descrição
+
+* Simulação de um Music-Player contendo 3 músicas.
 
 ## Funcionalidades
  
-* Mostrar o clima e condição atual de determinada cidade do mundo
-* Mostrar a média climática dos próximos 4 dias 
+* Avanço, retorno e pause
+* Simulação de um Music-Player
 
 ## Tecnologias utilizadas
 
 * JavaScript
 * Html
 * Css
-* API
 
 ## Recursos externos
 
@@ -21,4 +23,4 @@
 * Particles.js - Biblioteca para efeitos
 
 
-* Aplicação hospedada: https://weather-app-bdm.netlify.app/
+* Aplicação hospedada: https://music-player-bdm.netlify.app/
