@@ -19,8 +19,8 @@
 
 ## Recursos externos
 
-* BoxIcons - Para ícones
-* Particles.js - Biblioteca para efeitos
+* Músicas livres de direitos autorais
+* Assets (Imagens para a capa da música)
 
 
 * Aplicação hospedada: https://music-player-bdm.netlify.app/
